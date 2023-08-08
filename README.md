@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on learning java.<br>I love to work with rest apis and micro-services in typescript.<br>I currently work as a plumber, but in my free time i love to learn new things about programming and make new proejcts!<br>I'm happy to collaborate anytime! <br>Feel free to reach out!!
+Im currently working on learning java.<br>I love to work with rest apis and micro-services in typescript.<br>I currently work as a plumber, but in my free time i love to learn new things about programming and make new projects!<br>I'm happy to collaborate anytime! <br>Feel free to reach out!!
 
 
 ## 🌐 Socials:
